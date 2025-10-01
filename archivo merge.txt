@@ -1,1 +1,2 @@
-Este es un archivo de merged.
+La vida hay que vivirla.
+Prueba de integraciones con main desde rama externa.
